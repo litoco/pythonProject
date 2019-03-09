@@ -9,4 +9,4 @@ Because this was my first project I only focussed some of the basic functionalit
  My main focus was to make the gui look better. 
 It took nearly 2-3 weeks for me to  complete this.
 
-I was awarded A+ grade points for this project.
+It was an individual project and I was awarded A+ grade points for this project.
